@@ -1,0 +1,11 @@
+a{
+  cursor:pointer!important;
+}
+#profileDropdown span {
+  padding: 5px;
+}
+
+img.logo {
+  height: 98px;
+  width: 100px;
+}
